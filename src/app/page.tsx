@@ -2,7 +2,6 @@ import Image from 'next/image'; // Ensure you import Image from Next.js correctl
 
 export default function Home() {
   return (
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <div className="bg-gray-100 h-screen flex items-center justify-center">
       {/* Left Side */}
       <div className='text-3xl w-1/2 px-10'>
